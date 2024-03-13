@@ -4,7 +4,7 @@ A simple web application for ordering pizzas.
 
 ## Description
 
-This web application allows users to view a menu of pizzas, select pizzas, and place orders. It includes a backend built with Express.js for handling orders and a frontend built with React.js for user interaction.
+This web application allows users to view a menu of pizzas, select pizzas, and place orders. It includes a backend built with Express.js and MongoDB for handling orders and a frontend built with React.js for user interaction.
 
 ## Backend Functions
 
